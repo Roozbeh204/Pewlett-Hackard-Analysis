@@ -6,7 +6,9 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ## Results
 - Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
+
 ![EmployeeDB](https://user-images.githubusercontent.com/84139825/174908639-c8799bfd-2ef1-469f-a235-7248c93b93d5.png)
+
 
 ### Future Job Openings
 - After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around 64% of the staff to retire.
